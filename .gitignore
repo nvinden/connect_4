@@ -7,3 +7,6 @@ checkpoints
 
 # WandB Logging
 wandb
+
+# Rust
+rust_mcts/target
